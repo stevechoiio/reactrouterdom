@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+.about {
+  border: none;
+  box-shawdow: none;
+  border-radius: 5%;
+  background: whitesmoke;
+  margin-bottom: 50px;
+}
